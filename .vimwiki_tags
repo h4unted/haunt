@@ -1,0 +1,26 @@
+!_TAG_FILE_FORMAT	2
+!_TAG_FILE_SORTED	1
+!_TAG_OUTPUT_MODE	vimwiki-tags
+!_TAG_PROGRAM_AUTHOR	Vimwiki
+!_TAG_PROGRAM_NAME	Vimwiki Tags
+!_TAG_PROGRAM_URL	https://github.com/vimwiki/vimwiki
+!_TAG_PROGRAM_VERSION	2022.12.02
+bashtyping	bash_typing.md	1;"	vimwiki:bash_typing\tbash_typing\tbash_typing
+debian	debian.md	1;"	vimwiki:debian\tdebian\tdebian
+desktopenv	desktopenvironments.md	1;"	vimwiki:desktopenvironments\tdesktopenvironments\tdesktopenvironments
+diagnostic	diagnostic.md	1;"	vimwiki:diagnostic\tdiagnostic\tdiagnostic
+diskmgmt	disk_management.md	1;"	vimwiki:disk_management\tdisk_management\tdisk_management
+findedit	findedit.md	1;"	vimwiki:findedit\tfindedit\tfindedit
+grub	changing_grub-efi-amd64.md	1;"	vimwiki:changing_grub-efi-amd64\tchanging_grub-efi-amd64\tchanging_grub-efi-amd64
+linuxguide	linux_guide.md	1;"	vimwiki:linux_guide\tlinux_guide\tlinux_guide
+linuxmanual	linuxmanual.md	1;"	vimwiki:linuxmanual\tlinuxmanual\tlinuxmanual
+mywiki	index.md	1;"	vimwiki:index\tindex\tindex
+pythonvscode	pythonvscode.md	1;"	vimwiki:pythonvscode\tpythonvscode\tpythonvscode
+roles	roles.md	1;"	vimwiki:roles\troles\troles
+shellmanual	manual2.md	1;"	vimwiki:manual2\tmanual2\tmanual2
+shellmanual	shell_manual.md	1;"	vimwiki:shell_manual\tshell_manual\tshell_manual
+tags	tags.md	1;"	vimwiki:tags\ttags\ttags
+users	users.md	1;"	vimwiki:users\tusers\tusers
+uservars	switching.md	1;"	vimwiki:switching\tswitching\tswitching
+vimwiki	vimwiki.md	1;"	vimwiki:vimwiki\tvimwiki\tvimwiki
+whoami	whoami.md	1;"	vimwiki:whoami\twhoami\twhoami
