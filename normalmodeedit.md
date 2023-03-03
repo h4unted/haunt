@@ -1,8 +1,8 @@
+[return](normalmode)
 
-# return to [normal](normalmode)
 :manipulate:
 
-word wrap an entire paragraph by first navigigating to the
+Word wrap an entire paragraph by first navigigating to the
 beggining of the line by pressing <0> and then adding up all
 following lines under by pressing a number <20> which is the
 number of lines you want and then by pressing <shift-J>_you

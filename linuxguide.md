@@ -2,7 +2,7 @@
 
 :linuxguide:
 
-opening up the linux bash [shell_manual](shellmanual)
+The bash terminal is the core terminal of linux, therfore you must first learn how to open the linux bash shell [manual](shellmanual)
 
 the different professional [roles](roles) for any given information system 
 

@@ -1,4 +1,4 @@
-[vimwiki](vimwiki)
+[return](vimwiki)
 
 :edit:
 

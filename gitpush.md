@@ -1,5 +1,4 @@
-
-# return to [versioncontrol](versioncontrol)
+[return](versioncontrol)
 
 :gitpush:
 

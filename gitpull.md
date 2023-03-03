@@ -1,5 +1,4 @@
-
-# return to [versioncontrol](versioncontrol)
+[return](versioncontrol)
 
 in order to pull from a remote, you must make sure your
 local repository is first a clone from that remote_and that

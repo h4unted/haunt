@@ -1,4 +1,4 @@
-[index](index)
+[return](index)
  
 :versioncontrol:
 
@@ -10,5 +10,7 @@ remote repository
 
 before pulling a commit from a remote git repository, one
 must first [cancel](gitlocalcancel) all changes to one's
-local repository so that there will not be conflicts on
-mergin the remote repository to the local one.
+local repository so that there will be no conflicts on
+merging the remote repository to the local one.
+
+You can also [erase](erase) all previous commits of a remote repository.

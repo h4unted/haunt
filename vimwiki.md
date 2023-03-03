@@ -1,4 +1,4 @@
-[index](index)
+[return](index)
 
 :vimwiki:
 

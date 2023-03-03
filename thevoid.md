@@ -14,3 +14,9 @@
 [pyramid5](pyramid5)
 
 [pyramid6](pyramid6)
+
+[pyramid7](pyramid7)
+
+[pyramid8](pyramid8)
+
+[pyramid9](pyramid9)
