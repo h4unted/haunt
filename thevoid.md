@@ -20,3 +20,5 @@
 [pyramid8](pyramid8)
 
 [pyramid9](pyramid9)
+
+[pyramid10](pyramid10)
