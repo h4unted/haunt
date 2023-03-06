@@ -3,7 +3,7 @@
 :commands:
 
 
-Within the bash shell, you can list your linux system's pci devices with this [diagnostic](diagnostic) commands. You can also list all mounted and unmounted [disks](disk_management) on linux
+Within the bash shell, you can list your linux system's pci devices,hardrives and system processes, with these [diagnostic](diagnostic) commands. You can also list all mounted and unmounted [disks](disk_management) on linux
 
 
 these are the different environment [variables](variables) location within linux
