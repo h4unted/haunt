@@ -1,3 +1,6 @@
+[environment](environment)
+
+:variables:
 
 global environment variables = /etc/environment
 local environment variables = .bashrc .profile
