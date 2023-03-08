@@ -2,9 +2,9 @@
 
 :debian:
  
-general [guideline](linuxguide) for linux configuration
+[Guideline](linuxguide) for linux configuration
 
-guidelines for debian [installation](debian_installation)
+Debian [installation](debian_installation)
 
 [tpm_firmware_bug](tpm_firmware_bug)
 

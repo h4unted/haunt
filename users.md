@@ -2,8 +2,4 @@
 
 :users:
 
-As the root user, you must know basi [management](user_management)
-
-[user_file_management](user_file_management)
-
-[switching](switching) 
+As the root user, you must know basic user [management](usermanagement). Manage their [files](user_file_management) and then [switch](switch) between them.

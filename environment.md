@@ -1,8 +1,8 @@
-[user](user)
+[user](linuxguide)
 
 :environment:
 
-These are the different environment [variables](variables) location within linux
+These are the different environment variables [location](variableslocation) within linux.
 
-Listing all debian [desktop_environments](desktopenvironments) installed, within the command line
+Listing all debian desktop [environments](desktopenvironments) installed, within the command line
 

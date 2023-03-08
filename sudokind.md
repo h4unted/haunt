@@ -1,4 +1,4 @@
-[return](switching)
+[return](switch)
 
 :sudokind:
 

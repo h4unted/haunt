@@ -1,3 +1,7 @@
+[return](users)
+
+:usermanagement:
+
 ```sh
 
 # useradd userdel usermod are commands that should be done with flag options
@@ -70,3 +74,6 @@ stat -c %u /home/user/
 find / -user $(stat -c %u /home/user/) -delete
 
 ```
+
+
+
