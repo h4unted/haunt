@@ -4,7 +4,7 @@
  
 [Guideline](linuxguide) for linux configuration
 
-Debian [installation](debian_installation)
+Debian [installation](debianinstall)
 
 [tpm_firmware_bug](tpm_firmware_bug)
 

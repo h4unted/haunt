@@ -12,8 +12,8 @@ Learning the basics of [package_installation](package) also is very important.
 
 When you have first installed linux, for a faster boot startup, it is better to change the [grub](grub) efi amd64 settings.
 
-the different professional [roles](roles) for any given information system 
+(the different professional [roles](roles) for any given information system) 
 
-running [python_in_vscode](pythonvscode)
+(running [python_in_vscode](pythonvscode))
 
 
