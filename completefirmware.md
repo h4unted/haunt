@@ -17,7 +17,7 @@ sudo apt-get install $(cat ~/Firmware.list | awk '{print $1}')
 
 ```
 
-
+[Link](sources.listlink) and [contents](sources.listcontents) of sources.list
 
 
 

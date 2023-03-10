@@ -8,7 +8,7 @@ Debian [bootloader](bootloader) installation.
 Basic [sources list](sources.list) file.
 Adding debian [apt](apt) repositories.
 List [pci](pci) devices installed and their needed firmwares.
-List all [kernel](kernelmodulelist) modules.
+Configuring [kernel](kernelmodulesconfig) modules.
 Installing a [missing](missingfirmware) firmware for a pci device.
 Updating [kernel](kernelmodule) module for new firmware installed.
 [Complete](completefirmware) and random firmwares installation.
