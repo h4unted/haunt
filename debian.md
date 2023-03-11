@@ -2,9 +2,8 @@
 
 :debian:
  
-[Guideline](linuxguide) for linux configuration
+This is about debian [installation](debianinstall) and [configuration](debianconfig) 
 
-Debian [installation](debianinstall)
+Debian [gnuhealth](gnuhealth) installation
 
-Tpm firmware [tpmbug](tpm_firmware_bug)
-
+[Postgresql](Postgresql) configuration.

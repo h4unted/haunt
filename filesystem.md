@@ -1,4 +1,4 @@
-[return](linuxguide)
+[return](debianconfig)
 
 :filesystem:
 
@@ -15,3 +15,5 @@ Create a [txt](txt) file and edit them
 [Finding](Findingfiles) files and directories from bash terminal
 
 [Finding](Findingtexts) texts from txt files from bash terminal
+
+

@@ -2,4 +2,6 @@
 
 :kernelfirmwaresdirectory:
 
+/usr/lib/firmware
+
 

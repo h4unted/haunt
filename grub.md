@@ -1,4 +1,4 @@
-[return](linuxguide)
+[return](debianconfig)
 
 :grub:
 
