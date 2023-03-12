@@ -18,8 +18,8 @@ Uncompress and [install](installgnutar) gnuhealth.tar
 [Configuring](configuringsqldb) the postgresql database
 How to install gnuhealth [demo](gnudemo) database
 Configuring postgres database
-How to uninstall all local pip packages
-Installing python virtual envars with pipenv
-Fhir and rest installation using pipenv
-How to install visual studio code
+How to uninstall all local [pip](installpippackages) packages
+Installing python virtual envars with [pipenv](pipenvpyvirvar)
+[Fhir](gnufhirinstallation) and rest installation using pipenv
+How to install [visual](installvscode) code
 
