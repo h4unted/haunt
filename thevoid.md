@@ -26,3 +26,7 @@
 [pyramid11](pyramid11)
 
 [pyramid12](pyramid12)
+
+[pyramid13](pyramid13)
+
+[pyramid14](pyramid14)
